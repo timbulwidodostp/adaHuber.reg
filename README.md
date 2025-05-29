@@ -1,6 +1,8 @@
 # adaHuber.reg
 Adaptive Huber Regression Use adaHuber.reg (adaHuber) With (In) R Software
 
+https://www.youtube.com/watch?v=_TD51-Y7Zuo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
